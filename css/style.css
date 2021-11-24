@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(255, 249, 158);
+    border-radius: 5px;
+    text-align: center;
+    font-family: Verdana;
+    color: indigo;
+}
+body {
+    margin: 0px;
+}
+p.title {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 25px;
+}
+p.quote {
+    color: darkred;
+    text-align: center;
+    font-size: 18px;
+}
+.line {
+    border-bottom: 1px solid;
+}
+table.hobbies {
+    width: 1200;
+    margin: auto;
+}
+ul ol {
+    padding: 20px;
+}
+    span {
+    font-size: 25px;
+    color: darkblue;
+    }
+.footer h4{
+    margin: 5px;
+    text-align: center;
+}
+
+.footer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
